@@ -1,0 +1,48 @@
+[submodule "2015/battlecode-server"]
+	path = 2015/battlecode-server
+	url = https://github.com/battlecode/battlecode-server.git
+[submodule "2015/battlecode-client"]
+	path = 2015/battlecode-client
+	url = https://github.com/battlecode/battlecode-client
+[submodule "2015/teams/-name"]
+	path = 2015/teams/-name
+	url = https://github.com/dchoi2/BattleCode2015.git
+[submodule "2015/teams/Fox"]
+	path = 2015/teams/Fox
+	url = https://github.com/dchoi2/BattleCode2015.git
+[submodule "2013/battlecode-2013-server"]
+	path = 2013/battlecode-2013-server
+	url = https://github.com/jaaso/battlecode-2013-server.git
+[submodule "2013/battlecode-2013-client"]
+	path = 2013/battlecode-2013-client
+	url = https://github.com/jaaso/battlecode-2013-client.git
+[submodule "2014/battlecode-server-2014"]
+	path = 2014/battlecode-server-2014
+	url = https://github.com/fabian-braun/battlecode-server-2014.git
+[submodule "2014/teams/reignOfDke"]
+	path = 2014/teams/reignOfDke
+	url = https://github.com/fabian-braun/reignOfDke.git
+[submodule "2015/teams/anim0ls"]
+	path = 2015/teams/anim0ls
+	url = https://bitbucket.org/jdshen/battlecode-2015.git
+[submodule "2012/Battlecode-Server-Tester"]
+	path = 2012/Battlecode-Server-Tester
+	url = https://github.com/stevearc/Battlecode-Server-Tester.git
+[submodule "2015/teams/tszalay"]
+	path = 2015/teams/tszalay
+	url = https://github.com/tszalay/Battlecode.git
+[submodule "2015/teams/Fragments_of_Hologram_Rose"]
+	path = 2015/teams/Fragments_of_Hologram_Rose
+	url = https://github.com/3urningChrome/battlecode2015
+[submodule "2015/teams/team302"]
+	path = 2015/teams/team302
+	url = https://github.com/EWester/battlecode-2015.git
+[submodule "2015/teams/Ayyyyyyyylmao"]
+	path = 2015/teams/Ayyyyyyyylmao
+	url = https://github.com/awojnowski/Battlecode2015.git
+[submodule "2015/teams/theotherteam"]
+	path = 2015/teams/theotherteam
+	url = https://github.com/TheDuck314/battlecode2015.git
+[submodule "2015/BattleCode2015_Combat_Tester"]
+	path = 2015/BattleCode2015_Combat_Tester
+	url = https://github.com/3urningChrome/BattleCode2015_Combat_Tester.git
